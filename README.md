@@ -1,6 +1,6 @@
-# Zoho_Sydney_Workshop
+# Zoho Creator Sydney Workshop
 
-Zoho Creator Sydney Workshop. 28th and 29th September Workshop 2016. 
+HTML Pages Session. 28th and 29th September Workshop 2016. 
 
 Repository for all the HTML Files  has been shared here. 
 
